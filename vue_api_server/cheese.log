@@ -1,0 +1,13 @@
+[2020-12-16T14:03:36.064] [DEBUG] cheese - login => username:hohoho,password:hehehe
+[2020-12-16T14:03:36.067] [DEBUG] cheese - hohoho
+[2020-12-16T14:03:36.076] [DEBUG] cheese - { inspect: [Function: inspect] }
+[2020-12-16T14:03:36.077] [DEBUG] cheese - 查询失败
+[2020-12-16T14:05:20.826] [DEBUG] cheese - login => username:admin,password:123456
+
+[2020-12-16T14:05:20.826] [DEBUG] cheese - admin
+[2020-12-16T14:05:20.829] [DEBUG] cheese - { inspect: [Function: inspect] }
+[2020-12-16T14:05:20.829] [DEBUG] cheese - 查询失败
+[2020-12-16T14:05:29.543] [DEBUG] cheese - login => username:admin,password:123456
+[2020-12-16T14:05:29.543] [DEBUG] cheese - admin
+[2020-12-16T14:05:29.546] [DEBUG] cheese - { inspect: [Function: inspect] }
+[2020-12-16T14:05:29.546] [DEBUG] cheese - 查询失败
