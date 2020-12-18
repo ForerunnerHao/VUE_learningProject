@@ -1,0 +1,51 @@
+{
+  "id": "1931519",
+  "name": "Vue_learningProject",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2142850",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "7685191",
+      "name": "password",
+      "font_class": "password1",
+      "unicode": "e717",
+      "unicode_decimal": 59159
+    },
+    {
+      "icon_id": "11219362",
+      "name": "password",
+      "font_class": "password2",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11459724",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "15066948",
+      "name": "password",
+      "font_class": "password3",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "8327184",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}
